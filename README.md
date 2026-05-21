@@ -74,6 +74,20 @@ Dataset structure:
 Grad-CAM is used to visualize the regions of the X-ray image where the AI model focuses while making predictions.
 
 ---
+## Screenshots
+
+### Dashboard
+
+![Dashboard](ss/Dashboard.png)
+
+### Prediction Result
+
+![Prediction](ss/Prediction.png)
+
+### Grad-CAM Visualization
+
+![GradCAM](ss/Grad-Cam.png)
+
 
 ## Project Structure
 
