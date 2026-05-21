@@ -13,3 +13,4 @@ data/unseen_images/
 *.rar
 
 .env
+models/*.h5
