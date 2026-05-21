@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+data/chest_xray/
+data/unseen_images/
+
+*.zip
+*.rar
+
+.env
